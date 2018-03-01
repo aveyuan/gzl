@@ -1,0 +1,59 @@
+body{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+.container{
+	margin: 0 auto;
+}
+.contbox{
+	margin: 0 auto;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	width: 150px;
+	border: solid 2px;
+}
+.contline{
+	background: url(../img/jt.png) no-repeat center;
+	height: 22px;
+}
+
+hr{
+	margin: 0 auto;
+	/*margin-left:6px;*/
+	border: 1px solid;
+
+
+}
+.hrlfet{
+	background: url(../img/jt.png) no-repeat center;
+
+	height: 35px;
+	width: 150px;
+	color:blue;
+	font-weight: bold;
+}
+.hrfzlfet{
+	background: url(../img/fzjt.png) no-repeat center;
+
+	height: 60px;
+	color:royalblue;
+	font-weight: bold;
+}
+.hrboxleft{
+	float: left;
+	margin-left: 2px;
+
+}
+.hrbox{
+	margin-left: 6px;
+	float: left;
+	width: 150px;		
+}
+.boxleft{
+
+	width: 150px;
+}
+.flclear{
+	clear: both;
+}
